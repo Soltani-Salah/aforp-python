@@ -1,0 +1,14 @@
+2026-11-24 04:55:02,335 - INFO - Je suis dans le bloc try
+2026-11-24 04:55:02,335 - ERROR - La valeur est incorrecte
+2026-11-24 05:10:26,793 - INFO - Je suis dans le bloc try
+2026-11-24 05:15:26,131 - INFO - Je suis dans le bloc try
+2026-11-24 05:20:03,942 - INFO - Je suis dans le bloc try
+2026-11-24 05:20:53,725 - INFO - Je suis dans le bloc try
+2026-11-24 05:34:22,410 - INFO - Je suis dans le bloc try
+2026-11-24 05:34:22,410 - ERROR - le dossier est introuvable
+2026-11-24 05:40:30,622 - INFO - Je suis dans le bloc try
+2026-11-24 05:40:30,622 - ERROR - le dossier est introuvable
+2026-11-24 06:24:19,620 - INFO - Je suis dans le bloc try
+2026-11-24 06:24:19,620 - ERROR - le dossier est introuvable
+2026-11-24 06:32:31,503 - INFO - Je suis dans le bloc try
+2026-11-24 06:32:31,503 - INFO - Fichier lu: test.txt, taille : 75 octets

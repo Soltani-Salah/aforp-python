@@ -1,0 +1,20 @@
+import json
+
+
+servers:[
+  {"name": "web01", "ip": "10.0.0.11", "role": "web", "cpu": 72, "up": true},
+  {"name": "web02", "ip": "10.0.0.12", "role": "web", "cpu": 95, "up": true},
+  {"name": "db01", "ip": "10.0.0.21", "role": "db", "cpu": 40, "up": false},
+  {"name": "cache01", "ip": "10.0.0.31", "role": "cache", "cpu": 15, "up": true}
+]
+
+def count_by_role(servers):
+	counts = {}
+	for s in servers : 
+		counts[s["role"]] = counts.get(s["role"], 0 ) + 1
+	return counts
+
+def main
+
+if __name__ == "__main__":
+    main()
