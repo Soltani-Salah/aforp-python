@@ -1,0 +1,7 @@
+[
+ {"name": "site-web", "ok": true, "ms": 1},
+ {"name": "api-statut", "ok": true, "ms": 0},
+ {"name": "api-flaky", "ok": false, "ms": 0},
+ {"name": "cache", "ok": true, "ms": 0},
+ {"name": "base-clients", "ok": false, "ms": null}
+]
